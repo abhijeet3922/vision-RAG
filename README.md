@@ -9,7 +9,7 @@ The emergence of multi-modal LLMs (MLLMs) resolves the issue of visual document 
 
 **Visual Language Models** (like ColPali, ColQwen) can encode text and images together in an embeddings are state-of-the-art retrievers for complex documents understanding.
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nasdaq.com%2Farticles%2Fa-golden-investment-opportunity%3A-1-top-stock-to-buy-before-it-soars-40-to-hit-%244-trillion&psig=AOvVaw3Y-awS20leqZX9GUNxKRm8&ust=1749577235207000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDTtJ_x5I0DFQAAAAAdAAAAABAv)
+![alt text](https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F765160%2Fapple-revenue-q124-final.png&w=700)
 
 
 ## Outline
