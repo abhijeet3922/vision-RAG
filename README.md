@@ -24,3 +24,14 @@ There are multiple notebooks available there. Here are short descriptions which 
 2. `2_prompting_qa_using_multi_modal_llm`: This notebook demonstrate processing and integrating visual language information for Qwen Model to generate answers for given query.
 
 3. `3_develop_vision_rag_end_to_end`: This notebook combines the first two notebooks to develop end-to-end process of Vision-RAG.
+
+
+## Pre-Reading for Workshop
+We will be using the following tools during the workshop. Participants might find it useful to make themselves familiar with these prior to the workshop.
+
+1. [ColPali](https://github.com/illuin-tech/colpali): Open source visual embedding model. This has demostrated state-of-the-art performance on complex document retrieval.
+2. [Qwen 2.5VL 3B](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct): A multi-modal language model: Prompt such LLM for image based document understanding task.
+3. [FAISS Vector DB](https://github.com/facebookresearch/faiss): Vector DB used for demostration here. Similary Chroma DB or any other open source DB can be implemented.
+4. [ViDoRe](https://github.com/illuin-tech/vidore-benchmark): A benchmark of 10 tasks to evaluate the performance of document retrieval systems on visually rich documents across various tasks, domains, languages, and settings.
+5. [ColPali Paper](https://arxiv.org/abs/2407.01449): Original paper on which the solution is based.
+6. Many other Vector DB implementations can be checked like [Elastic Search](https://www.elastic.co/search-labs/blog/elastiacsearch-colpali-document-search), [Qdrant](https://qdrant.tech/documentation/advanced-tutorials/reranking-hybrid-search/) etc
