@@ -12,9 +12,9 @@ In this workshop, we develop a visual augmented Question-Answering system as ste
 4. Introduction to Multi-modal LLMs (brief talk) 
 5. ***Module 2***: Prompting Multi-modal LLM for Visual Q&A using Qwen-2.5-VL-3B
 6. ***Module 3***: Develop end to end visual augmented Q&A using Vision-RAG.
-7. ***Module 4***: Setting up vector database as retriever for vision-RAG.
+7. ***Module 4***: Setting up vector database as retriever for vision-RAG (coming soon)
 8. Practical challenges with Vision based RAG (talk)
-9. ***Module 5***: Using Vector DB as Retriever and ColPali as re-ranker.
+9. ***Module 5***: Using Vector DB as Retriever and ColPali as re-ranker (coming soon)
 10. Key Takeaways & Conclusion 
 
 ## Workshop Notebooks
