@@ -46,7 +46,7 @@ We will be using the following tools during the workshop. Participants might fin
 
 
 <details>
-<summary>🔽 Other resources</summary>
+<summary>🔽 Additional Pre-Readings</summary>
    
 - [ViDoRe](https://github.com/illuin-tech/vidore-benchmark): A benchmark of 10 tasks to evaluate the performance of document retrieval systems on visually rich documents across various tasks, domains, languages, and settings.
    
