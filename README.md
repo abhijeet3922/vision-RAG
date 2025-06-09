@@ -1,7 +1,7 @@
 # Vision-RAG: Developing Visual Augmented Q&A using Vision & Multimodal LLM
 Welcome to the repository. This work is created for participants of a workshop.
 
-*Problem Statement*: Traditional information extraction systems face challenges with text only language models as it does not consider infographics (visual elements of information) such as tables, charts, images etc. often used to convey complex information to readers. 
+***Problem Statement***: Traditional information extraction systems face challenges with text only language models as it does not consider infographics (visual elements of information) such as tables, charts, images etc. often used to convey complex information to readers. 
 Multimodal LLM (MLLM) face challenges of finding needle in the haystack problem i.e., either longer context length or substantial number of documents as search space.
 
 ## Outline
