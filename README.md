@@ -20,13 +20,13 @@ In this workshop, we develop a visual augmented Question-Answering system as ste
 ## Workshop Notebooks
 There are multiple notebooks available there. Here are short descriptions which may help to quickly follow.
 
-1. `1_search_with_colpali_late_interaction`: This notebook demostrates to perform query search over a PDF which also includes searching over all the infographics provided in PDF.
+🔽 `1_search_with_colpali_late_interaction`: This notebook demostrates to perform query search over a PDF which also includes searching over all the infographics provided in PDF.
 
-2. `2_prompting_qa_using_multi_modal_llm`: This notebook demonstrates processing and integrating visual language information for Qwen Model to generate answers for given query.
+🔽 `2_prompting_qa_using_multi_modal_llm`: This notebook demonstrates processing and integrating visual language information for Qwen Model to generate answers for given query.
 
-3. `3_develop_vision_rag_end_to_end`: This notebook combines the first two notebooks to develop end-to-end process of Vision-RAG.
-4. `4_setup_vectordb_as_retriever`: This notebook demostrates setting up a vector database for the multi-vector embeddings (visual augment retrieval).
-5. `5_vectordb_colpali_as_reranker`: This notebook employs best of both worlds.
+🔽 `3_develop_vision_rag_end_to_end`: This notebook combines the first two notebooks to develop end-to-end process of Vision-RAG.
+🔽 `4_setup_vectordb_as_retriever`: This notebook demostrates setting up a vector database for the multi-vector embeddings (visual augment retrieval).
+🔽 `5_vectordb_colpali_as_reranker`: This notebook employs best of both worlds.
     * Faster retrieval using vector DB (1st pass)
     * In-memory ColPali like model for re-ranking (since its state-of-art performance).
 
