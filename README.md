@@ -44,10 +44,13 @@ We will be using the following tools during the workshop. Participants might fin
 3. [FAISS Vector DB](https://github.com/facebookresearch/faiss): Vector DB used for demostration here. Similary Chroma DB or any other open source DB can be implemented.
 4. [ViDoRe](https://github.com/illuin-tech/vidore-benchmark): A benchmark of 10 tasks to evaluate the performance of document retrieval systems on visually rich documents across various tasks, domains, languages, and settings.
 5. [ColPali Paper](https://arxiv.org/abs/2407.01449): Original paper on which the solution is based.
-6. Many other Vector DB implementations of ColPali can be checked like [Elastic Search](https://www.elastic.co/search-labs/blog/elastiacsearch-colpali-document-search), [Qdrant](https://qdrant.tech/documentation/advanced-tutorials/reranking-hybrid-search/) etc
+6. Many other Vector DB implementations of ColPali can be checked like [Elastic Search](https://www.elastic.co/search-labs/blog/elastiacsearch-colpali-document-search), [Qdrant](https://qdrant.tech/documentation/advanced-tutorials/reranking-hybrid-search/) etc.
 
+<details>
 <summary><strong>🔽 Other resources</strong></summary>
 
 - 📝 = blog post
 - 📋 = PDF / slides
 - 📹 = video
+
+  </details>
