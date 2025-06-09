@@ -30,8 +30,11 @@ There are multiple notebooks available there. Here are short descriptions which 
     * Faster retrieval using vector DB (1st pass)
     * In-memory ColPali like model for re-ranking (since its state-of-art performance).
 
+## Hardware Requirements
+1. All you need is a device with internet connection.
+2. All notebooks can be run from Google collab.
 
-## Pre-Reading for Workshop
+## Additional Pre-Readings
 We will be using the following tools during the workshop. Participants might find it useful to make themselves familiar with these prior to the workshop.
 
 1. [ColPali](https://github.com/illuin-tech/colpali): Open source visual embedding model. This has demostrated state-of-the-art performance on complex document retrieval.
