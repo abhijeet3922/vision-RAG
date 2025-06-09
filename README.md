@@ -50,7 +50,7 @@ We will be using the following tools during the workshop. Participants might fin
    
 - [ViDoRe](https://github.com/illuin-tech/vidore-benchmark): A benchmark of 10 tasks to evaluate the performance of document retrieval systems on visually rich documents across various tasks, domains, languages, and settings.
    
-- Many other Vector DB implementations of ColPali can be checked like: 
+- Few other Vector DB implementations of ColPali integrations can be checked here: 
    [Elastic Search](https://www.elastic.co/search-labs/blog/elastiacsearch-colpali-document-search)
    [Qdrant](https://qdrant.tech/documentation/advanced-tutorials/reranking-hybrid-search/)
 </details>
