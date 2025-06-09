@@ -9,6 +9,9 @@ The emergence of multi-modal LLMs (MLLMs) resolves the issue of visual document 
 
 **Visual Language Models** (like ColPali, ColQwen) can encode text and images together in an embeddings are state-of-the-art retrievers for complex documents understanding.
 
+![alt text]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nasdaq.com%2Farticles%2Fa-golden-investment-opportunity%3A-1-top-stock-to-buy-before-it-soars-40-to-hit-%244-trillion&psig=AOvVaw3Y-awS20leqZX9GUNxKRm8&ust=1749577235207000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDTtJ_x5I0DFQAAAAAdAAAAABAv))
+
+
 ## Outline
 In this workshop, we develop a visual augmented Question-Answering system as step by step process:
 1. Usecase & Quick overview of the workshop
