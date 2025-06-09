@@ -25,8 +25,10 @@ There are multiple notebooks available there. Here are short descriptions which 
 🔽 `2_prompting_qa_using_multi_modal_llm`: This notebook demonstrates processing and integrating visual language information for Qwen Model to generate answers for given query.
 
 🔽 `3_develop_vision_rag_end_to_end`: This notebook combines the first two notebooks to develop end-to-end process of Vision-RAG.
-🔽 `4_setup_vectordb_as_retriever`: This notebook demostrates setting up a vector database for the multi-vector embeddings (visual augment retrieval).
-🔽 `5_vectordb_colpali_as_reranker`: This notebook employs best of both worlds.
+
+🔽 `4_setup_vectordb_as_retriever` (coming soon): This notebook demostrates setting up a vector database for the multi-vector embeddings (visual augment retrieval).
+
+🔽 `5_vectordb_colpali_as_reranker` (coming soon): This notebook employs best of both worlds.
     * Faster retrieval using vector DB (1st pass)
     * In-memory ColPali like model for re-ranking (since its state-of-art performance).
 
