@@ -42,12 +42,10 @@ We will be using the following tools during the workshop. Participants might fin
 1. [ColPali](https://github.com/illuin-tech/colpali): Open source visual embedding model. This has demostrated state-of-the-art performance on complex document retrieval.
 2. [Qwen 2.5VL 3B](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct): A multi-modal language model: Prompt such LLM for image based document understanding task.
 3. [FAISS Vector DB](https://github.com/facebookresearch/faiss): Vector DB used for demostration here. Similary Chroma DB or any other open source DB can be implemented.
-
-5. [ColPali Paper](https://arxiv.org/abs/2407.01449): Original paper on which the solution is based.
-6. 
+4. [ColPali Paper](https://arxiv.org/abs/2407.01449): Original paper on which the solution is based. 
 
 <details>
-<summary>🔽 ### Other resources</summary>
-* [ViDoRe](https://github.com/illuin-tech/vidore-benchmark): A benchmark of 10 tasks to evaluate the performance of document retrieval systems on visually rich documents across various tasks, domains, languages, and settings.
-* Many other Vector DB implementations of ColPali can be checked like [Elastic Search](https://www.elastic.co/search-labs/blog/elastiacsearch-colpali-document-search), [Qdrant](https://qdrant.tech/documentation/advanced-tutorials/reranking-hybrid-search/) etc.
+<summary>🔽 Other resources</summary>
+- [ViDoRe](https://github.com/illuin-tech/vidore-benchmark): A benchmark of 10 tasks to evaluate the performance of document retrieval systems on visually rich documents across various tasks, domains, languages, and settings.
+- Many other Vector DB implementations of ColPali can be checked like [Elastic Search](https://www.elastic.co/search-labs/blog/elastiacsearch-colpali-document-search), [Qdrant](https://qdrant.tech/documentation/advanced-tutorials/reranking-hybrid-search/) etc.
 </details>
