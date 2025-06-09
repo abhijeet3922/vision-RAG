@@ -8,12 +8,12 @@ Multimodal LLM (MLLM) face challenges of finding needle in the haystack problem 
 In this workshop, we develop a visual augmented Question-Answering system as step by step process:
 1. Usecase & Quick overview of the workshop
 2. Introduction to Visual Language Embedidng Models (brief talk)
-3. *Module 1*: Develop visual-augmented search using ColPali.
+3. **Module 1**: Develop visual-augmented search using ColPali.
 4. Introduction to Multi-modal LLMs (brief talk) 
-5. *Module 2*: Prompting Multi-modal LLM for Visual Q&A using Qwen-2.5-VL-3B
-6. *Module 3*: Develop end to end visual augmented Q&A using Vision-RAG.
-7. *Module 4*: Setting up vector database as retriever for vision-RAG.
-8. *Module 5*: Using Vector DB as Retriever and ColPali as re-ranker.
+5. **Module 2**: Prompting Multi-modal LLM for Visual Q&A using Qwen-2.5-VL-3B
+6. **Module 3**: Develop end to end visual augmented Q&A using Vision-RAG.
+7. **Module 4**: Setting up vector database as retriever for vision-RAG.
+8. **Module 5**: Using Vector DB as Retriever and ColPali as re-ranker.
 9. Key Takeaways & Conclusion 
 
 There are multiple notebooks available there. Here are short descriptions which may help to quickly follow.
