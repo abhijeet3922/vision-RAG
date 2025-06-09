@@ -11,7 +11,7 @@ The emergence of multi-modal LLMs (MLLMs) resolves the issue of visual document 
 **Visual Language Models** (like ColPali, ColQwen) can encode text and images together in an embeddings are state-of-the-art retrievers for complex documents understanding.
 
 ### Example
-***How do we retrieve a page with such information in infographics ?***
+Larger issue which we are trying to solve here: **How do we retrieve a page with such information in only infographics ?**
 
 ***Text Query***: What is Ipad's revenue contribution in Apple's total revenue for Q1 2024 ?
 
