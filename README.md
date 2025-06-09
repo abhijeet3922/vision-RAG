@@ -3,7 +3,11 @@ Welcome to the repository. This work is created for participants of a workshop.
 
 ***Problem Statement***: Traditional information extraction systems face challenges with text only language models as it does not consider infographics (visual elements of information) such as tables, charts, images etc. often used to convey complex information to readers. Conventional RAG solutions uses multiple complex models such as OCR, Layout detection and table extraction models to convert visual elements in text.
 
-The emergence of multi-modal LLMs (MLLMs) resolves the issue of visual document understanding by mapping text queries to provided multi-modal context. But multimodal LLMs (MLLM) face challenges of finding needle in the haystack problem i.e., either longer context length or substantial number of documents as search space.
+The emergence of multi-modal LLMs (MLLMs) resolves the issue of visual document understanding by mapping text queries to provided multi-modal context. But multimodal LLMs (MLLM) face challenges of finding needle in the haystack problem i.e.,
+* longer context length
+* substantial number of documents as search space.
+
+**Visual Language Models** (like ColPali, ColQwen) can encode text and images together in an embeddings are state-of-the-art retrievers for complex documents understanding.
 
 ## Outline
 In this workshop, we develop a visual augmented Question-Answering system as step by step process:
