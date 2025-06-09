@@ -13,8 +13,7 @@ The emergence of multi-modal LLMs (MLLMs) resolves the issue of visual document 
 ### Example
 ***How do we retrieve a page with such information in infographics ?***
 
-<u>Text Query</u>
-What is Ipad's revenue contribution in Apple's total revenue for Q1 2024 ?
+***Text Query***: What is Ipad's revenue contribution in Apple's total revenue for Q1 2024 ?
 
 ![alt text](https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F765160%2Fapple-revenue-q124-final.png&w=700)
 
