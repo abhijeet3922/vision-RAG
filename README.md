@@ -68,3 +68,7 @@ We will be using the following tools during the workshop. Participants might fin
    [Elastic Search](https://www.elastic.co/search-labs/blog/elastiacsearch-colpali-document-search)
    [Qdrant](https://qdrant.tech/documentation/advanced-tutorials/reranking-hybrid-search/)
 </details>
+
+### Acknowledgement
+This workshop material was partly curated by [Rachna Saxena](#)
+
