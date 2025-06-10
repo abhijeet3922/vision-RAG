@@ -69,6 +69,6 @@ We will be using the following tools during the workshop. Participants might fin
    [Qdrant](https://qdrant.tech/documentation/advanced-tutorials/reranking-hybrid-search/)
 </details>
 
-### Acknowledgement
-This workshop material was partly curated by [Rachna Saxena](#)
+### Contributions
+This workshop materials and examples were partly curated by [Rachna Saxena](#)
 
