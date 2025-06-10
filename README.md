@@ -40,7 +40,7 @@ There are multiple notebooks available there. Here are short descriptions which 
 
 🔽 `3_develop_vision_rag_end_to_end`: This notebook combines the first two notebooks to develop end-to-end process of Vision-RAG.
 
-🔽 `4_setup_vectordb_as_retriever` (coming soon): This notebook demostrates setting up a vector database for the multi-vector embeddings (visual augment retrieval).
+🔽 `4_setup_vectordb_as_retriever`: This notebook demostrates setting up a vector database for the multi-vector embeddings (visual augment retrieval).
 
 🔽 `5_vectordb_colpali_as_reranker` (coming soon): This notebook employs best of both worlds.
     * Faster retrieval using vector DB (1st pass)
