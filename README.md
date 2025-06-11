@@ -43,8 +43,8 @@ There are multiple notebooks available there. Here are short descriptions which 
 🔽 `4_setup_vectordb_as_retriever`: This notebook demostrates setting up a vector database for the multi-vector embeddings (visual augment retrieval).
 
 🔽 `5_vectordb_as_retriever_colpali_as_reranker`: This notebook employs best of both worlds.
-      * Faster retrieval using vector DB (1st pass)
-      * In-memory ColPali like model for re-ranking (since its state-of-art performance).
+- Faster retrieval using vector DB (1st pass)
+- In-memory ColPali like model for re-ranking (since its state-of-art performance).
 
 ## Hardware Requirements
 1. All you need is a device with internet connection.
