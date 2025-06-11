@@ -70,5 +70,5 @@ We will be using the following tools during the workshop. Participants might fin
 </details>
 
 ### Contributions
-This workshop materials and examples were partly curated by [Rachna Saxena](#)
+This workshop materials and examples were partly curated by [Rachna Saxena](rachna.saxena@gmail.com)
 
