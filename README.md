@@ -1,4 +1,4 @@
-# Vision-RAG: Developing Visual Augmented Q&A using Vision & Multimodal LLM
+# Develop Visual Augmented Q&A using Multi-vector Vision Embeddings with Vector Database
 Welcome to the repository. This work is created for participants of a workshop.
 
 ## Problem Statement
