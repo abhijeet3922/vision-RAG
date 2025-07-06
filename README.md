@@ -47,13 +47,13 @@ There are multiple notebooks available there. Here are short descriptions which 
 - In-memory ColPali like model for re-ranking (since its state-of-art performance).
 
 
-## Installation needed for EC2 Instance
-`python3 -m pip install --upgrade pip`
-`pip install pdf2image`
-`pip install colpali-engine==0.3.9`
-`sudo apt-get update`
-`sudo apt-get install poppler-utils`
-`pip install torchvision==0.21.0`
+## Installation needed for EC2 Instance (from terminal)
+`python3 -m pip install --upgrade pip` <br/>
+`pip install pdf2image` <br/>
+`pip install colpali-engine==0.3.9` <br/>
+`sudo apt-get update` <br/>
+`sudo apt-get install poppler-utils` <br/>
+`pip install torchvision==0.21.0` <br/>
 `pip install qwen-vl-utils`
 
 
