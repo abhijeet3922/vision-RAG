@@ -46,9 +46,21 @@ There are multiple notebooks available there. Here are short descriptions which 
 - Faster retrieval using vector DB (1st pass)
 - In-memory ColPali like model for re-ranking (since its state-of-art performance).
 
+
+## Installation needed for EC2 Instance
+`python3 -m pip install --upgrade pip`
+`pip install pdf2image`
+`pip install colpali-engine==0.3.9`
+`sudo apt-get update`
+`sudo apt-get install poppler-utils`
+`pip install torchvision==0.21.0`
+`pip install qwen-vl-utils`
+
+
 ## Hardware Requirements
-1. All you need is a device with internet connection.
-2. All notebooks can be run from Google collab.
+There are two ways for the lab execution in workshop.
+1. E2E Networks - Jupyter lab environment (Check installation instructions above)
+2. Google Collab  (Installation instructions are provided in notebook itself)
 
 ## Workshop Pre-Reads
 We will be using the following tools during the workshop. Participants might find it useful to make themselves familiar with these prior to the workshop.
