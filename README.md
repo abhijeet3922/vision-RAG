@@ -58,7 +58,7 @@ There are multiple notebooks available there. Here are short descriptions which 
 
 
 ## Hardware Requirements
-There are two ways for the lab execution in workshop.
+There are two ways for the lab execution in workshop. You only need to a device with browser (obviously internet connection).
 1. E2E Networks - Jupyter lab environment (Check installation instructions above)
 2. Google Collab  (Installation instructions are provided in notebook itself)
 
